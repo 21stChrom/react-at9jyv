@@ -1,4 +1,5 @@
 .App{
+  border: none;
   background-color:black;
     width: 119vh;
       height: 120vh;
@@ -14,14 +15,14 @@
                 display: flex;
                 align-items: center;
                 background-color: blue;
-              }            
-#embed{
+              }           mbed{
   justify-content: center;
   align-items: center;
   display: flex;
   overflow: hidden;
 }
 iframe{
+  border:none;
   display: flex;
   align-items: center;
   justify-content: center;
