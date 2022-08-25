@@ -15,12 +15,8 @@
                 display: flex;
                 align-items: center;
                 background-color: blue;
-              }           mbed{
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  overflow: hidden;
-}
+              }           
+
 iframe{
   border:none;
   display: flex;
