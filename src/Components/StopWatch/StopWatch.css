@@ -1,6 +1,6 @@
 .stop-watch{
     height: 70vh;
-    width: 85vw;
+    width: 100%;
     background: black;
     display: flex;
     flex-direction: column;
